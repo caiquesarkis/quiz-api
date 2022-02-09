@@ -1,4 +1,4 @@
-import database from './models'
+import database from './src/models'
 
 
 const express = require('express')
